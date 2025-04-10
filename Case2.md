@@ -28,6 +28,8 @@ Kan noen i nettverk/sikkerhet sjekke om noe sperrer for tilgang?
 
 Gi gjerne beskjed hvis du har kapasitet til å bidra.
 
+IT Drift
+
 ------------------------------------------------------------
 
 
